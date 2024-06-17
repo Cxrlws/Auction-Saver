@@ -1,1 +1,1 @@
-Personal project to save information from an auction
+Personal project to save information (Name, price...) from an auction in my neighborhood.
